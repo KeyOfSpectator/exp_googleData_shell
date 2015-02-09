@@ -1,0 +1,181 @@
+
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 4
+ * [param] : table Name: 32T_4S_NPR_shellEXE2_1
+ * /
+[Time] create table time :  979
+Total time : 83685.0 ms
+Throughput: 5974.78640138615 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 4
+ * [param] : table Name: 32T_4S_NPR_shellEXE2_2
+ * /
+[Time] create table time :  1425
+Total time : 80786.0 ms
+Throughput: 6189.191196494442 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 4
+ * [param] : table Name: 32T_4S_NPR_shellEXE2_3
+ * /
+[Time] create table time :  1182
+Total time : 86499.0 ms
+Throughput: 5780.413646400536 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 8
+ * [param] : table Name: 32T_8S_NPR_shellEXE2_1
+ * /
+[Time] create table time :  1144
+Total time : 77542.0 ms
+Throughput: 6448.118439039488 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 8
+ * [param] : table Name: 32T_8S_NPR_shellEXE2_2
+ * /
+[Time] create table time :  1391
+Total time : 72244.0 ms
+Throughput: 6920.989978406511 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 8
+ * [param] : table Name: 32T_8S_NPR_shellEXE2_3
+ * /
+[Time] create table time :  1276
+Total time : 75534.0 ms
+Throughput: 6619.535573384172 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 16
+ * [param] : table Name: 32T_16S_NPR_shellEXE2_1
+ * /
+[Time] create table time :  1432
+Total time : 79941.0 ms
+Throughput: 6254.612776922981 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 16
+ * [param] : table Name: 32T_16S_NPR_shellEXE2_2
+ * /
+[Time] create table time :  1217
+Total time : 77741.0 ms
+Throughput: 6431.61266255901 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 16
+ * [param] : table Name: 32T_16S_NPR_shellEXE2_3
+ * /
+[Time] create table time :  2309
+Total time : 81422.0 ms
+Throughput: 6140.846454275257 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 32
+ * [param] : table Name: 32T_32S_NPR_shellEXE2_1
+ * /
+[Time] create table time :  3051
+Total time : 69085.0 ms
+Throughput: 7237.461098646595 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 32
+ * [param] : table Name: 32T_32S_NPR_shellEXE2_2
+ * /
+[Time] create table time :  1995
+Total time : 73062.0 ms
+Throughput: 6843.502778462128 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 32
+ * [param] : table Name: 32T_32S_NPR_shellEXE2_3
+ * /
+[Time] create table time :  2169
+Total time : 80390.0 ms
+Throughput: 6219.679064560269 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 64
+ * [param] : table Name: 32T_64S_NPR_shellEXE2_1
+ * /
+[Time] create table time :  5003
+Total time : 70698.0 ms
+Throughput: 7072.335851084897 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 64
+ * [param] : table Name: 32T_64S_NPR_shellEXE2_2
+ * /
+[Time] create table time :  3354
+Total time : 68982.0 ms
+Throughput: 7248.267664028297 ops/sec
+/* 
+ * Exp for thoughput
+ * Data is 50WLine
+ * 
+ * param:
+ * [param] : thread Num: 32
+ * [param] : split num : 64
+ * [param] : table Name: 32T_64S_NPR_shellEXE2_3
+ * /
+[Time] create table time :  3103
+Total time : 77000.0 ms
+Throughput: 6493.506493506494 ops/sec
