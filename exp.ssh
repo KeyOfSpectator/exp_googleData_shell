@@ -29,3 +29,4 @@ echo "all done!"
 #splitEqually.py
 
 #cat /home/ubuntu/exp_data/splitEqually.py >> /home/ubuntu/shell/output/logs
+
