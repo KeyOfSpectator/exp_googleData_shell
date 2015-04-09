@@ -17,3 +17,7 @@
 
 * 数据平分n份工具
 > <p>splitEqually.py</p>
+
+* hbase 表批量删除工具
+> <p>./hbase_shell/MultiDeleteHbaseTable.sh</p>
+
