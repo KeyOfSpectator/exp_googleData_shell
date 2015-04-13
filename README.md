@@ -12,6 +12,10 @@
 > <p>相关脚本：exp_opentsdb.sh</p>
 > <p>数据集 56M 50WLine 监控数据</p>
 
+* hbase 查询实验脚本
+> <p>相关脚本：exp_query_shell.sh</p>
+> <p>数据集 task_event task_usage</p>
+
 * 数据结构声明 与 查询要求
 > <p>create_table.sql</p>
 
