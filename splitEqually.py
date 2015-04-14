@@ -5,7 +5,7 @@ import os
 import csv
 import time
 
-NUM = 16
+NUM = 32
 
 #INPUT_PATH = "/root/expdata/media/EEAEDA2FAED9EFD7/GoogleCluster/UsedData/fewer_throughput/split1/"
 INPUT_PATH = "/home/ubuntu/data/"
